@@ -4,7 +4,7 @@
 
 This is the skeleton for the vmx javascript framework.
 
-All $vmx methods that interact with the backend are asynchronous and use a promise framework (see the angular docs for ($q)[https://docs.angularjs.org/api/ng/service/$q]
+All $vmx methods that interact with the backend are asynchronous and use a promise framework (see the angular docs for [$q](https://docs.angularjs.org/api/ng/service/$q)
 
 For example to get a list of available models from the server:
 
